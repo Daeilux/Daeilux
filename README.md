@@ -27,13 +27,7 @@
 
 <div>
   
-  <a href="https://www.linkedin.com/in/joshuegarcia/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
-  </a>
-
-  <a href="https://www.tiktok.com/@davetto_mx">
-    <img src="https://img.shields.io/badge/tiktok-20232A?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
+  
 </div>
 
 <div>
