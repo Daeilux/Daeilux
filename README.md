@@ -3,7 +3,7 @@
 <div>
     <h4>
         <b>
-            backend Developper 
+            Backend Developper 
         </b>
     </h4>
 </div>
@@ -15,9 +15,7 @@
 </h3>
 
 <p>
-    Self-Taught Full-Stack Developer focused on Backend Development and Data Engineering processes. 
-    Learning about DevOps to become a MLOps Engineer with a specialization in Cloud Computing. 
-    Passionate of the AI World, looking to create a career into the Data World. 
+   PENDIG....
 </p>
 
 
